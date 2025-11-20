@@ -13,8 +13,8 @@
     "modules-center": ["hyprland/window"],
     "modules-right": [
         "pulseaudio",
-        "network",
-        "temperature",
+        // "network",
+        // "temperature",
         "tray",
         "clock",
         "custom/power"
