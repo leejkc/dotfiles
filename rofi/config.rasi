@@ -8,15 +8,14 @@
 }
 
 configuration {
-	modi:                       "drun,run,filebrowser,window";
+	modi:                       "drun,run,window";
     show-icons:                 true;
-    display-drun:               "  Apps";
-    display-run:                "  Run";
-    display-filebrowser:        "  Files";
-    display-window:             "  Windows";
+    display-drun:               "󰣆 Apps";
+    display-run:                "󰆍 Run";
+    display-window:             " Windows";
 	drun-display-format:        "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";
 	window-format:              "{w} · {c} · {t}";
-	font: "Fira Code Nerd Font 11";
+	font: "Google Sans Code NF 10";
 }
 
 * {
@@ -106,7 +105,7 @@ prompt {
 textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
-    str:                         "::";
+    str:                         ":";
     background-color:            inherit;
     text-color:                  inherit;
 }

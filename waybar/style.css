@@ -9,7 +9,7 @@
 window#waybar {
     background: transparent;
     color: @nord4;
-    font-family: "Fira Code Nerd Font";
+    font-family: "Google Sans Code NF";
     font-size: 12px;
     font-weight: bold;
 }
