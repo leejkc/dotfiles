@@ -1,0 +1,18 @@
+selected_gpu: 8086:9A68-1028:0A71-0000:00:02.0
+plots_time_period: 60
+plots_per_row: 2
+stats_poll_interval_ms: 500
+gpus:
+  10DE:25A2-1028:0A71-0000:01:00.0:
+    plots:
+    - []
+    - - VramClock
+    - []
+    - []
+  8086:9A68-1028:0A71-0000:00:02.0:
+    plots:
+    - []
+    - - GpuClock
+      - GpuTargetClock
+    - []
+    - []

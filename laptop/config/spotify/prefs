@@ -1,0 +1,13 @@
+autologin.username="xlegendman"
+autologin.saved_credentials="{\"xlegendman\":[\"xlegendman\",\"5jJpud7FYS2PRX61oxwa1rjG6ksAjmTqpLrvYorBdw1gTTH5zwopyGHqZX6Kzg+OKXN/hVITCXIs2vRnDrWopHFkGRwPTM/kbeUQrWZBTR/+1tLADekjR2hC+yY7/C9knl5EayICtWISH6/AVH88gdUsUpLrCEU1+RQMgGUFuDbGNdIrrJxHkSCOeZTOuAeNwOllr7pLRJD+LNpDeVnIPeEfXIfvIK2OEsSjh3tdPRHjDdav4KVwVt9GUAIgqRsW\"]}"
+autologin.canonical_username="xlegendman"
+autologin.blob="5jJpud7FYS2PRX61oxwa1rjG6ksAjmTqpLrvYorBdw1gTTH5zwopyGHqZX6Kzg+OKXN/hVITCXIs2vRnDrWopHFkGRwPTM/kbeUQrWZBTR/+1tLADekjR2hC+yY7/C9knl5EayICtWISH6/AVH88gdUsUpLrCEU1+RQMgGUFuDbGNdIrrJxHkSCOeZTOuAeNwOllr7pLRJD+LNpDeVnIPeEfXIfvIK2OEsSjh3tdPRHjDdav4KVwVt9GUAIgqRsW"
+app.window.state.saved=true
+app.window.position.width=1896
+es.send-on-startup=true
+core.clock_delta=0
+app.window.state=2
+app.window.position.saved=true
+app.window.position.height=1013
+storage.last-location="/home/lee/.cache/spotify/Storage"
+app.last-launched-version="1.2.79.425.g1d0fcf61"
