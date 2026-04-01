@@ -1,3 +1,7 @@
+[noapps](assets/noapps.png)
+[combo](assets/combo.png)
+[firefox](assets/firefox.png)
+
 ## details:
 
 - distro: void
