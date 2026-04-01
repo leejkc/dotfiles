@@ -21,3 +21,4 @@
 - editor: vim/code-oss
 - browser: firefox +textfox
 - image viewer: imv
+- power modes: power-profiles-daemon
